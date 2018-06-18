@@ -1,0 +1,13 @@
+cad24096b31ad5b2585706e192d49d9c *DESCRIPTION
+3b8a23eb0c75477db6fc338299945e5d *NAMESPACE
+48e2a3732a4dd4102b2491fc5ea5ddef *R/dragonking.R
+fc9a166bf28511153304d3eb6fbe6a66 *R/stat_tests.R
+26b31a6d44855dfab4d5d3311d2f6fe3 *R/test_stats.R
+61d86d4be9dada51053e37e550746416 *R/utility.R
+d61fe80148db19e56241ab491b36a4d8 *man/dixon_stat.Rd
+ff7ae658824e697d6eccd736a142677f *man/dk_test.Rd
+aa4664c22557366b2f58803c30b95d51 *man/dragonking.Rd
+661b365cd9d015c999f528320d2d2415 *man/mrs_stat.Rd
+ae8be758a0ae59ef5915c389d6984771 *man/ms_stat.Rd
+298b3aa824be8ae1046bdc07b58c4962 *man/srs_stat.Rd
+001dea756c9fe4bfbfc9ae098ffea7ff *man/ss_stat.Rd
